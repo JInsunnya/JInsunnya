@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JInsunnya)](https://github.com/anuraghazra/github-readme-stats)
