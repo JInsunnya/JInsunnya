@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={JInsunnya})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JInsunnya)
