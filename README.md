@@ -7,7 +7,7 @@
 </p>
 
 
-💻 사용 기술
+<!-- 💻 사용 기술
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
@@ -56,6 +56,7 @@
 
 ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+-->
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=96bef0&height=150&section=footer" />
