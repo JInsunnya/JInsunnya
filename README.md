@@ -127,7 +127,7 @@ AI가 답을 대신 제시하기보다, 질문과 대화를 통해 사용자가 
 
 **State Management**
 
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 ![MobX](https://img.shields.io/badge/MobX-EA6618?style=flat-square&logo=mobx&logoColor=white)
 
