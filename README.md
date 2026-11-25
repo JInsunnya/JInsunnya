@@ -15,6 +15,7 @@
 
 - **Plan** — 사용자 문제 정의 · 요구사항 분석 · 사용자 흐름 및 기능 설계
 - **Build** — React / React Native · Spring Boot 기반 풀스택 개발
+- **AI & Automation** — 생성형 AI 활용 · 프롬프트 엔지니어링 · AI 파이프라인 구축 및 품질 개선
 - **Launch & Improve** — 팀 협업 · 서비스 출시 및 운영 · 데이터 기반 개선
 
 <br/>
@@ -23,6 +24,7 @@
 
 - **구름톤 in Jeju 17기 우수상** — 한집줄클 서비스 기획
 - **App Store 출시 및 운영** — ForA PM · iOS 프론트엔드
+- **기업 연계 AI 업무 자동화 서비스 개발** — 스마트동스쿨 뚝딱쇼츠
 - **AI 서비스 기획 및 개발** — WIDER
 
 <br/>
@@ -64,7 +66,26 @@ ADHD 관련 정보와 경험을 탐색하고 공유할 수 있는 모바일 서�
 
 ---
 
-### 03. WIDER — AI 사고 확장 파트너
+### 03. 뚝딱쇼츠 — 블로그 콘텐츠 기반 AI 숏폼 자동 생성 서비스
+
+**Service Planning · AI Service Development** | Python · OpenAI API · whiteboard-animator · FFmpeg · Remotion · React
+
+스마트동스쿨 기업 연계 프로젝트로, 블로그·교육 콘텐츠를 30~60초 분량의 화이트보드 일러스트 숏폼 영상으로 자동 변환하는 AI 기반 콘텐츠 제작 서비스입니다.
+
+- **서비스 기획:** 기업 요구사항 분석, 서비스 콘셉트 및 네이밍, 콘텐츠 제작 자동화 방향과 품질 개선 기준 구체화
+- **AI 이미지 생성:** 프롬프트 엔지니어링을 통한 내레이션·이미지 간 의미 정합성 개선, 참조 이미지 기반 화풍 및 인물 일관성 확보
+- **AI 품질 검증:** 생성 전·후 이미지 품질 검증 및 문자·숫자·워터마크 감지 시 자동 재생성 로직 구현
+- **영상 생성 최적화:** 사물별 컬러 마커 자동 배정, 내레이션 기반 드로잉 순서 개선 및 샘플 기준 드로잉 중간 대기 시간 약 90.6% 단축
+- **UI/UX 및 영상 품질:** 숏폼 안전 여백, 핵심 수치 시각화, 브랜드 로고 적용, 최종 영상과 웹 미리보기의 레이아웃 개선
+- **QA 및 비용 분석:** 기업 블로그 원문 10건·대표 이미지 20장·완성 영상 3편 검증, 개선 전후 비교 및 AI 사용 비용 측정
+- **배포:** Vercel·Railway 기반 웹 서비스 배포 및 실행 환경 검증
+- **성과:** 기업 필수 요구사항 5/5 구현, 평균 영상 생성 시간 2분 48초 및 편당 AI 비용 $0.44 달성, 상용화에 대한 긍정적 기업 평가
+
+> **Key takeaway:** 기업의 요구사항을 AI 기반 자동화 서비스로 구체화하고, 생성형 AI의 결과물 검증·품질 개선부터 서비스 구현 및 배포까지 연결한 경험
+
+---
+
+### 04. WIDER — AI 사고 확장 파트너
 
 **Service Planning · Frontend Development** | React · Redux · Axios · Styled-components · Vercel
 
@@ -81,7 +102,7 @@ AI가 답을 대신 제시하기보다, 질문과 대화를 통해 사용자가 
 
 ---
 
-### 04. 대학생보호구역 — 대학생 맞춤형 지역 상권 제휴 플랫폼
+### 05. 대학생보호구역 — 대학생 맞춤형 지역 상권 제휴 플랫폼
 
 **Service Planning · Frontend Development**  | React Native · Expo · TypeScript · Zustand · TanStack Query
 
@@ -97,7 +118,7 @@ AI가 답을 대신 제시하기보다, 질문과 대화를 통해 사용자가 
 
 ---
 
-### 05. ENCORE — 공연 정보·커뮤니티 플랫폼
+### 06. ENCORE — 공연 정보·커뮤니티 플랫폼
 
 **Service Planning · Full-stack Development** | Java · Spring Boot · JPA · Thymeleaf · jQuery · Bootstrap · MySQL
 
@@ -134,8 +155,16 @@ AI가 답을 대신 제시하기보다, 질문과 대화를 통해 사용자가 
 **Backend & Database**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Whiteboard Animator](https://img.shields.io/badge/whiteboard--animator-555555?style=flat-square)
 
 **Tools & Collaboration**
 
@@ -151,6 +180,11 @@ AI가 답을 대신 제시하기보다, 질문과 대화를 통해 사용자가 
 
 ## 🤝 Experience
 
+**기업실무프로젝트 | 스마트동스쿨**
+- 기업 요구사항 기반 AI 콘텐츠 제작 자동화 서비스 기획 및 개발
+- 생성형 AI 결과물 품질 검증 및 개선
+- 팀 프로젝트 협업
+
 **멋쟁이사자처럼 HUFS 서울 13기 | 운영진**
 - 프론트엔드 교육 진행 및 학습 지원
 - 교육 커리큘럼 구성 및 운영
@@ -158,9 +192,3 @@ AI가 답을 대신 제시하기보다, 질문과 대화를 통해 사용자가 
 
 **멋쟁이사자처럼 HUFS 서울 12기 | 프론트엔드 멤버**
 - 프론트엔드 개발 학습 및 팀 프로젝트 참여
-
-<br/>
-
-<div align="center">
-
-</div>
